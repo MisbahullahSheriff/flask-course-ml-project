@@ -5,6 +5,7 @@
 This repository contains the materials and code for Session 8 of the Flask Course, which focuses on deploying machine learning models using Flask. In this session, we developed a project to predict flight prices. The session covered interpreting learning curves, evaluating and selecting models, creating a web application with Flask, and deploying the app using Render.
 
 ## Relevant Links
+- [Course](https://learnwith.campusx.in/courses/Flask-for-Machine-Learning-Introduction-to-Flask--Dynamic-URL-Redirection-URL-Building-Jinja-Templates-Forms--Input-Validation-Databases-Sessions-Cookies-Training--Deloyment-of-ML-Model-6658698ad54433398d1a487b)
 - [Course Repository](https://github.com/MisbahullahSheriff/flask-course)
 - [Web Application](https://flask-course-ml-project.onrender.com)
 
